@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="combinedContractTest"
+    errors="0" failures="0" hostname="" id="" package="combinedContractTest" skipped="0"
+    tests="1" time="3.524" timestamp="">
+  
+    <testcase name="Verify REST and SOAP API contract" classname="combinedContractTest" time="1.760" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

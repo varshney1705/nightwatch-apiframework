@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="duckDuckGo"
+    errors="0" failures="0" hostname="" id="" package="duckDuckGo" skipped="0"
+    tests="1" time="5.864" timestamp="">
+  
+    <testcase name="Search Nightwatch.js and check results" classname="duckDuckGo" time="2.931" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="contractTest"
+    errors="0" failures="0" hostname="" id="" package="contractTest" skipped="0"
+    tests="1" time="12.69" timestamp="">
+  
+    <testcase name="Verify REST API contract" classname="contractTest" time="6.341" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
